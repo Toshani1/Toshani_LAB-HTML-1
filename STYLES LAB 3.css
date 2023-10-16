@@ -1,0 +1,57 @@
+th {
+    background-color: lightgrey;
+}
+
+table, th, td{
+    border: 2px solid black;
+}
+
+th, td{
+    padding: 10px;
+}
+
+table{
+    margin: 100px 50px 50px 100px
+}
+
+.img1{ 
+    height: 20%;
+    width: 30%;
+    border: 5px dashed red;
+    padding: 30px
+}
+
+.img2{
+    height: 20%;
+    width: 30%;
+    border: 5px dashed red;
+    padding: 30px
+}
+
+.img3{
+    height: 20%;
+    width: 30%;
+    border: 5px dashed red;
+    padding: 30px
+}
+
+.paragraph{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+
+.gmail:hover{
+    background-color: red;
+}
+
+.canvas:visited{
+    color: grey;
+}
+
+.youtube:active{
+    color: orange;
+}
